@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	background-color: #6CC;
+	margin: auto;
+	width: 950px;
+}
+
+#banner {
+	background-color: #30F;
+	width: 100%;
+	float: left;
+	font-family: "Comic Sans MS", cursive;
+	font-size: xx-large;
+}
+
+#navbar {
+	background-color:#396;
+	width: 100%;
+	float: left;
+}
+
+#maincontent {
+	background-color: #30F;
+	width: 100%;
+	float: left;
+}
+
+#footer {
+	background-color: #396;
+	width: 100%;
+	float: left;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
